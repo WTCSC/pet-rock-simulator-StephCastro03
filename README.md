@@ -30,7 +30,6 @@ You’ll manage two stats—**Hunger** and **Happiness**—while making choices 
 ## Requirements  
 - Python 
 
-No additional packages are needed.  
 
 ---
 ## Overall concept of the game 
